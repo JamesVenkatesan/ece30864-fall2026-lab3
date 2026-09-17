@@ -18,3 +18,9 @@ Daily Standup:
 Retrospective:
 1. Demo the completed work to stakeholders and get feedback 
 2. Discuss what went well and what different - pick one process change for the next sprint
+
+Question D:
+Epic: Big chunk of work made up of many stories, spans multiple sprints
+Story: One user facing feature, small enough to deal with in 1 sprint
+Bug: Something broken in work already delivered 
+Task: Work with no user facing result like docs, setup, etc.
