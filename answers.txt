@@ -7,3 +7,14 @@ Non-Agile Cons: Problems only show up at the end; changes are expensive
 Question B:
 Scrum Master: Facilitates cerimonies, removes blockers, coaches the team on Scrum practice, sheilds the team from mid-scope changes.
 Product Owner: Owns and prioritizes the backlog, writes and clarifies user stories and acceptance criteria, represents the customer, accepts or rejects completed work. 
+
+Question C:
+Sprint Planning:
+1. Choose which backlog stories go into the sprint and estimate their effort
+2. Agree on the sprint goal
+Daily Standup:
+1. Each member states what they finished yesterday and what they will work on today
+2. Raise any blockers so the Scrum Master can resolve them
+Retrospective:
+1. Demo the completed work to stakeholders and get feedback 
+2. Discuss what went well and what different - pick one process change for the next sprint
