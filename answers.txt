@@ -3,3 +3,7 @@ Agile Pros: You get working software every sprint; requirements can change witho
 Agile Cons: Hard to fix a deadline or budget upfront; needs constant team and consumer availability
 Non-Agile Pros: Predictable schedule; full documentation
 Non-Agile Cons: Problems only show up at the end; changes are expensive
+
+Question B:
+Scrum Master: Facilitates cerimonies, removes blockers, coaches the team on Scrum practice, sheilds the team from mid-scope changes.
+Product Owner: Owns and prioritizes the backlog, writes and clarifies user stories and acceptance criteria, represents the customer, accepts or rejects completed work. 
