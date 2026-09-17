@@ -1,0 +1,5 @@
+Question A:
+Agile Pros: You get working software every sprint; requirements can change without restarting
+Agile Cons: Hard to fix a deadline or budget upfront; needs constant team and consumer availability
+Non-Agile Pros: Predictable schedule; full documentation
+Non-Agile Cons: Problems only show up at the end; changes are expensive
